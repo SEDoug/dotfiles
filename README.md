@@ -7,4 +7,4 @@ Seeking a broader field and desire to do work in full stack development.
 
 ## What I'm learning
 <li>Forgot how fun Linux is!</li>
-<li>Implementing bash scripts to automate and install multiple applications.<li>
+<li>Implementing bash scripts to automate and install multiple applications.</li>
