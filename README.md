@@ -1,5 +1,5 @@
 # DotFiles
-These are my dotfiles and personal preferences for my Ubuntu developer workstation.
+Contains my dotfiles and personal preferences that I use for my Ubuntu developer workstation.
 
 Created by @DougMacGregor || http://doug-macgregor.webflow.io/my-impossible-list <br>
 Seeking a broader field and desire to do work in full stack development.
