@@ -15,20 +15,21 @@ Seeking a broader field and desire to do work in full stack & mobile development
 ## Personal Preferences
 <p><strong>Using Virtual Environments</strong></p>
 <p style="padding-left: 40px;"><strong>Create new environment:</strong></p>
-<table style="border-collapse: collapse; width: 58.7366%;" border="1">
+<table style="width: 61.1559%; border-collapse: collapse; border-style: dashed; float: left;" border="0">
 <tbody>
 <tr>
-<td style="width: 17.0279%;">py -3 -m venv env</td>
-<td style="width: 41.8079%;">mac/Linux: python3 -m venv env</td>
+<td style="width: 12.2223%;">py -3 -m venv env</td>
+<td style="width: 49.156%;">mac/Linux: python3 -m venv env</td>
 </tr>
 <tr>
-<td style="width: 17.0279%;">Env\scripts\activate</td>
-<td style="width: 41.8079%;">mac/Linux: source env/bin/activate</td>
+<td style="width: 12.2223%;">Env\scripts\activate</td>
+<td style="width: 49.156%;">mac/Linux: source env/bin/activate</td>
 </tr>
 </tbody>
 </table>
-<p style="padding-left: 40px;"><br /><strong>Install packages:</strong><br />&nbsp; &nbsp;pip install [list of packages]&nbsp; &nbsp; OR<br />&nbsp; &nbsp;pip install -r requirements.txt<br /><br /><strong>Save package list:</strong><br />&nbsp; &nbsp;pip freeze &gt; requirements<br /><br /><strong>Deactivate:</strong><br />&nbsp; &nbsp;Deactivate<br /><br />Also support pyenv, pipenv, conda environments</p>
-
+<p style="padding-left: 40px;">&nbsp;</p>
+<p style="padding-left: 40px;">&nbsp;</p>
+<p style="padding-left: 40px;"><strong>Install packages:</strong><br />&nbsp; &nbsp;pip install [list of packages]&nbsp; &nbsp; OR<br />&nbsp; &nbsp;pip install -r requirements.txt<br /><br /><strong>Save package list:</strong><br />&nbsp; &nbsp;pip freeze &gt; requirements<br /><br /><strong>Deactivate:</strong><br />&nbsp; &nbsp;Deactivate<br /><br />Also support pyenv, pipenv, conda environments</p>
 <hr>
 
 ## about | dashboard | adding | editing articles
