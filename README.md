@@ -27,8 +27,6 @@ Seeking a broader field and desire to do work in full stack & mobile development
 </tr>
 </tbody>
 </table>
-<p style="padding-left: 40px;">&nbsp;</p>
-<p style="padding-left: 40px;">&nbsp;</p>
 <p style="padding-left: 40px;"><strong>Install packages:</strong><br />&nbsp; &nbsp;pip install [list of packages]&nbsp; &nbsp; OR<br />&nbsp; &nbsp;pip install -r requirements.txt<br /><br /><strong>Save package list:</strong><br />&nbsp; &nbsp;pip freeze &gt; requirements<br /><br /><strong>Deactivate:</strong><br />&nbsp; &nbsp;Deactivate<br /><br />Also support pyenv, pipenv, conda environments</p>
 <hr>
 
