@@ -13,4 +13,4 @@ Seeking a broader field and desire to do work in full stack & mobile development
 <li><a href="https://youtu.be/6YLMWU-5H9o"</a>Dan Taylor - Get Productive with Python in Visual Studio Code</li>
 
 ## How to work with a requirements.txt file
-![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/about_page.png)
+![python-code](https://github.com/SEDoug/dotfiles/blob/master/pip-install-requirements.PNG)
