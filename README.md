@@ -10,4 +10,4 @@ Seeking a broader field and desire to do work in full stack & mobile development
 <li>Implementing bash scripts to automate and install multiple applications.</li>
 
 ## Links for Python and Visual Studio Code
-<li><a href="https://youtu.be/6YLMWU-5H9o"</a>Get Productive<!li>
+<li><a href="https://youtu.be/6YLMWU-5H9o"</a>Dan Taylor - Get Productive with Python in Visual Studio Code</li>
