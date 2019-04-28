@@ -13,9 +13,22 @@ Seeking a broader field and desire to do work in full stack & mobile development
 <li><a href="https://youtu.be/6YLMWU-5H9o"</a>Dan Taylor - Get Productive with Python in Visual Studio Code</li>
 
 ## Personal Preferences
-<strong>Using Virtual Environments</strong></br>
-<li>How to work with a requirements.txt file</li></br>
-<p style="padding-left: 40px;"><strong>Create new environment:</strong><br />&nbsp; &nbsp;py -3 -m venv env&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;mac/Linux: python3 -m venv env<br />&nbsp; &nbsp;Env\scripts\activate&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;mac/Linux: source env/bin/activate<br /><br /><strong>Install packages:</strong><br />&nbsp; &nbsp;pip install [list of packages]&nbsp; &nbsp; OR<br />&nbsp; &nbsp;pip install -r requirements.txt<br /><br /><strong>Save package list:</strong><br />&nbsp; &nbsp;pip freeze &gt; requirements<br /><br /><strong>Deactivate:</strong><br />&nbsp; &nbsp;Deactivate<br /><br />Also support pyenv, pipenv, conda environments</p>
+<p><strong>Using Virtual Environments</strong></p>
+<p style="padding-left: 40px;"><strong>Create new environment:</strong></p>
+<table style="border-collapse: collapse; width: 58.7366%;" border="1">
+<tbody>
+<tr>
+<td style="width: 17.0279%;">py -3 -m venv env</td>
+<td style="width: 41.8079%;">mac/Linux: python3 -m venv env</td>
+</tr>
+<tr>
+<td style="width: 17.0279%;">Env\scripts\activate</td>
+<td style="width: 41.8079%;">mac/Linux: source env/bin/activate</td>
+</tr>
+</tbody>
+</table>
+<p style="padding-left: 40px;"><br /><strong>Install packages:</strong><br />&nbsp; &nbsp;pip install [list of packages]&nbsp; &nbsp; OR<br />&nbsp; &nbsp;pip install -r requirements.txt<br /><br /><strong>Save package list:</strong><br />&nbsp; &nbsp;pip freeze &gt; requirements<br /><br /><strong>Deactivate:</strong><br />&nbsp; &nbsp;Deactivate<br /><br />Also support pyenv, pipenv, conda environments</p>
+
 <hr>
 
 ## about | dashboard | adding | editing articles
