@@ -8,3 +8,6 @@ Seeking a broader field and desire to do work in full stack & mobile development
 ## What I'm learning
 <li>Forgot how fun Linux is!</li>
 <li>Implementing bash scripts to automate and install multiple applications.</li>
+
+## Links for Python and Visual Studio Code
+<li><href="https://youtu.be/6YLMWU-5H9o">Get Productive<!li>
