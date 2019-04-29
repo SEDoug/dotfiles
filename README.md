@@ -13,6 +13,8 @@ Seeking a broader field and desire to do work in full stack & mobile development
 <li><a href="https://youtu.be/6YLMWU-5H9o"</a>Dan Taylor - Get Productive with Python in Visual Studio Code</li>
 <li><a href="https://github.com/qubitron/flask-webapp-quickstart"</a>Clone App for Azure WebApp</li>
 
+## Extensions for VSCode
+<li> Azure App Service | Docker | Pylint</li>
 ## Personal Preferences
 <p><strong>Using Virtual Environments</strong></p>
 <p style="padding-left: 40px;"><strong>Create new environment:</strong></p>
