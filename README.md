@@ -13,8 +13,15 @@ Seeking a broader field and desire to do work in full stack & mobile development
 <li><a href="https://youtu.be/6YLMWU-5H9o"</a>Dan Taylor - Get Productive with Python in Visual Studio Code</li>
 <li><a href="https://github.com/qubitron/flask-webapp-quickstart"</a>Clone App for Azure WebApp</li>
 
+## Links for Sales Force
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/lex_end_user</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/lex_user_learn_fundamentals</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/build-your-sales-career</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/discover-sales-cloud</a></li>
+
 ## Extensions for VSCode
 <li> Azure App Service | Docker | Pylint</li>
+
 ## Personal Preferences
 <p><strong>Using Virtual Environments</strong></p>
 <p style="padding-left: 40px;"><strong>Create new environment:</strong></p>
