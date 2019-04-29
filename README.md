@@ -14,10 +14,10 @@ Seeking a broader field and desire to do work in full stack & mobile development
 <li><a href="https://github.com/qubitron/flask-webapp-quickstart"</a>Clone App for Azure WebApp</li>
 
 ## Links for Sales Force
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/lex_end_user</a></li>
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/lex_user_learn_fundamentals</a></li>
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/build-your-sales-career</a></li>
-<li><a href="https://trailhead.salesforce.com/content/learn/trails/discover-sales-cloud</a></li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/lex_end_user</a>End User</li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/lex_user_learn_fundamentals</a>User Learn Fundamentals</li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/build-your-sales-career</a>Build Your Sales Career</li>
+<li><a href="https://trailhead.salesforce.com/content/learn/trails/discover-sales-cloud</a>Discover Sales Cloud</li>
 
 ## Extensions for VSCode
 <li> Azure App Service | Docker | Pylint</li>
