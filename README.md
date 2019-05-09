@@ -15,7 +15,7 @@ Seeking a broader field and desire to do work in full stack & mobile development
 <li><a href="https://computingforgeeks.com/install-latest-vagrant-on-ubuntu-18-04-debian-9-kali-linux/"</a>Upgrade Vagrant on 18/04</li>
 
 ## How to install Vagrant Azure Plugin and Vagrant to 2.0.3 so you can install the plugin:
-<li><a href="wget -c https://releases.hashicorp.com/vagrant/2.0.3/vagrant_2.0.3_x86_64.deb"</a>Wget version 2.0.3</li>
+<li><a>wget -c https://releases.hashicorp.com/vagrant/2.0.3/vagrant_2.0.3_x86_64.deb"</a>Wget version 2.0.3</li>
 <li>sudo dpkg -i vagrant_2.0.3_x86_64.deb</li>
 <li>vagrant plugin install vagrant-azure</li>
 <hr>
