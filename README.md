@@ -9,7 +9,8 @@ Seeking a broader field and desire to do work in full stack & mobile development
 <li>Forgot how fun Linux is!</li>
 <li>Implementing bash scripts to automate and install multiple applications.</li>
 
-## Links for Python and Visual Studio Code
+## Links for Git, Python and Visual Studio Code
+<li><a href="https://git-scm.com/download/linux"</a>Download for Linux and Unix</li>
 <li><a href="https://youtu.be/6YLMWU-5H9o"</a>Dan Taylor - Get Productive with Python in Visual Studio Code</li>
 <li><a href="https://github.com/qubitron/flask-webapp-quickstart"</a>Clone App for Azure WebApp</li>
 
