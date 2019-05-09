@@ -12,9 +12,10 @@ Seeking a broader field and desire to do work in full stack & mobile development
 ## Links for Git, Vagrant, Python and Visual Studio Code
 <li><a href="https://git-scm.com/download/linux"</a>Download GIT for Linux and Unix</li>
 <li><a href="https://computingforgeeks.com/install-latest-vagrant-on-ubuntu-18-04-debian-9-kali-linux/"</a>Upgrade Vagrant on 18/04</li>
-Do this to resolve and upgrade to 2.0.3:
-wget -c https://releases.hashicorp.com/vagrant/2.0.3/vagrant_2.0.3_x86_64.deb
-sudo dpkg -i vagrant_2.0.3_x86_64.deb
+## How to install Vagrant Azure Plugin and Vagrant to 2.0.3 so you can install the plugin:
+<li>wget -c https://releases.hashicorp.com/vagrant/2.0.3/vagrant_2.0.3_x86_64.deb</li>
+<li>sudo dpkg -i vagrant_2.0.3_x86_64.deb</li>
+<li>vagrant plugin install vagrant-azure</li>
 <li><a href="https://youtu.be/6YLMWU-5H9o"</a>Dan Taylor - Get Productive with Python in Visual Studio Code</li>
 <li><a href="https://github.com/qubitron/flask-webapp-quickstart"</a>Clone App for Azure WebApp</li>
 
