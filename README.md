@@ -17,7 +17,7 @@ Seeking a broader field and desire to do work in full stack & mobile development
 <li><a href="https://www.youtube.com/watch?v=I1cG1FRjFOQ"</a>From Zero to Azure with Python - Dan Taylor</li>
 <li><a href="https://blog.scottlowe.org/2017/12/11/using-vagrant-with-azure/"</a>Using Vagrant with Azure</li>
 <li><a href="https://youtu.be/6YLMWU-5H9o"</a>Dan Taylor - Get Productive with Python in Visual Studio Code</li>
-<li><a href="https://github.com/qubitron/flask-webapp-quickstart"</a>Clone App for Azure WebApp</li>
+<li><a href="https://github.com/qubitron/flask-webapp-quickstart"</a>Flask quickstart for running in azure web apps</li>
 
 ## Install Vagrant Azure Plugin & Upgrade Vagrant to 2.0.3 so you can install the plugin: run the following
 <li><a>wget -c https://releases.hashicorp.com/vagrant/2.0.3/vagrant_2.0.3_x86_64.deb</a></li>
