@@ -14,7 +14,8 @@ Seeking a broader field and desire to do work in full stack & mobile development
 <li><a href="https://computingforgeeks.com/install-latest-vagrant-on-ubuntu-18-04-debian-9-kali-linux/"</a>Upgrade Vagrant on 18/04</li>
 
 ## Azure, Visual Studio Code, Python, SQL
-<li><a href="https://www.youtube.com/playlist?list=PLLasX02E8BPCNCK8Thcxu-Y-XcBUbhFWC"</a>Azure Tips & Tricks</li>
+<li><a href="https://microsoft.github.io/AzureTipsAndTricks/"</a>Azure Tips & Tricks - webpage</li>
+<li><a href="https://www.youtube.com/playlist?list=PLLasX02E8BPCNCK8Thcxu-Y-XcBUbhFWC"</a>Azure Tips & Tricks - videos</li>
 <li><a href="https://www.youtube.com/watch?v=I1cG1FRjFOQ"</a>From Zero to Azure with Python - Dan Taylor</li>
 <li><a href="https://blog.scottlowe.org/2017/12/11/using-vagrant-with-azure/"</a>Using Vagrant with Azure</li>
 <li><a href="https://youtu.be/6YLMWU-5H9o"</a>Dan Taylor - Get Productive with Python in Visual Studio Code</li>
