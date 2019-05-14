@@ -62,7 +62,7 @@ Then make a call to a specific project "Enterprise" if the API lets you get to G
 <hr>
 
 ## about | dashboard | adding | editing articles
-![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/about_page.png)
+![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/Screenshot%20from%202017-10-19%2020-44-01.png)
 ![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/login_success_dashboard.png)
 ![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/adding_article.png)
 ![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/editing_article.png)
