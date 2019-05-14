@@ -10,7 +10,7 @@ Seeking a broader field and desire to do work in full stack & mobile development
 <li>Implementing bash scripts to automate and install multiple applications.</li>
 
 ## How to set up a visualstudoio.com sandbox
-<li><a href="https://my.visualstudio.com</a>Set up developers account.</li>
+<li><a href="https://my.visualstudio.com"</a>Set up developers account.</li>
 
 ## Links for Git, Vagrant, Python and Visual Studio Code
 <li><a href="https://git-scm.com/download/linux"</a>Download GIT for Linux and Unix</li>
