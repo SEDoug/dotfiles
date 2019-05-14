@@ -61,8 +61,5 @@ Then make a call to a specific project "Enterprise" if the API lets you get to G
 <p style="padding-left: 40px;"><strong>Install packages:</strong><br />&nbsp; &nbsp;pip install [list of packages]&nbsp; &nbsp; OR<br />&nbsp; &nbsp;pip install -r requirements.txt<br /><br /><strong>Save package list:</strong><br />&nbsp; &nbsp;pip freeze &gt; requirements<br /><br /><strong>Deactivate:</strong><br />&nbsp; &nbsp;Deactivate<br /><br />Also support pyenv, pipenv, conda environments</p>
 <hr>
 
-## about | dashboard | adding | editing articles
+## How I am using Python
 ![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/Screenshot%20from%202017-10-19%2020-44-01.png)
-![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/login_success_dashboard.png)
-![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/adding_article.png)
-![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/editing_article.png)
