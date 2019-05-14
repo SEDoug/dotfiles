@@ -15,11 +15,10 @@ Seeking a broader field and desire to do work in full stack & mobile development
 
 ## Visual Studio Development
 API and making calls to the Organization User List
+Then make a call to a specific project "Enterprise" if the API lets you get to Groups and Users and Security of a specific Project you can recurse through the list or pull all the Groups and Users down and recurse thur code and spit out what you want.
 
 <li><a href="https://docs.microsoft.com/en-us/rest/api/azure/devops/audit/?view=azure-devops-rest-5.1"</a>API's</li>
 <li><a href="https://docs.microsoft.com/en-us/azure/devops/organizations/security/export-users-audit-log?view=azure-devops"</a>Call</li>
-</href>
-Then make a call to a specific project "Enterprise" if the API lets you get to Groups and Users and Security of a specific Project you can recurse through the list or pull all the Groups and Users down and recurse thur code and spit out what you want.
 
 ## Azure, Visual Studio Code, Python, SQL
 <li><a href="https://microsoft.github.io/AzureTipsAndTricks/"</a>Azure Tips & Tricks - webpage</li>
