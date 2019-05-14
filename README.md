@@ -9,6 +9,9 @@ Seeking a broader field and desire to do work in full stack & mobile development
 <li>Forgot how fun Linux is!</li>
 <li>Implementing bash scripts to automate and install multiple applications.</li>
 
+## How to connect to MS VSTS using Python
+<li><a href="https://github.com/rcoenmans/vsts-client"</a>Microsoft Azure DevOps (VSTS) and TFS written in Python</li>
+
 ## How to set up a visualstudoio.com sandbox
 <li><a href="https://my.visualstudio.com"</a>Set up developers account.</li>
 
