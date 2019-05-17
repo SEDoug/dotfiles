@@ -26,18 +26,18 @@ Then make a call to a specific project "Enterprise" if the API lets you get to G
 <li><a href="https://docs.microsoft.com/en-us/rest/api/azure/devops/audit/?view=azure-devops-rest-5.1"</a>API's</li>
 <li><a href="https://docs.microsoft.com/en-us/azure/devops/organizations/security/export-users-audit-log?view=azure-devops"</a>Call</li>
 
-## Docker for Windows | Visual Studio Code extension
+## Docker for Windows | Visual Studio Code extension | I needed this to deploy web apps to Azure
 Docker provides a way to run applications securely isolated in a container, packaged with all its dependencies and libraries.
 
 Docker is a full development platform for creating containerized apps, and Docker Desktop for Windows is the best way to get started with Docker on Windows.
 
+<li><a href="https://www.youtube.com/watch?v=I1cG1FRjFOQ"</a>From Zero to Azure w/ Python, Docker containers & Visual Studio Code</li>
+<li><a href="https://youtu.be/DPBspKl2epk"</a>From Zero to Azure with Python and Visual Studio Code</li>
 <li><a href="https://docs.docker.com/docker-for-windows/?utm_source=docker4win_2.0.0.3&utm_medium=docs&utm_campaign=referral"</a>Docker for Windows</li><br>
   
 ## Azure, Visual Studio Code, Python, SQL
 <li><a href="https://microsoft.github.io/AzureTipsAndTricks/"</a>Azure Tips & Tricks - webpage</li>
 <li><a href="https://www.youtube.com/playlist?list=PLLasX02E8BPCNCK8Thcxu-Y-XcBUbhFWC"</a>Azure Tips & Tricks - videos</li>
-<li><a href="https://www.youtube.com/watch?v=I1cG1FRjFOQ"</a>From Zero to Azure w/ Python, Docker containers & Visual Studio Code</li>
-<li><a href="https://youtu.be/DPBspKl2epk"</a>From Zero to Azure with Python and Visual Studio Code</li>
 <li><a href="https://blog.scottlowe.org/2017/12/11/using-vagrant-with-azure/"</a>Using Vagrant with Azure</li>
 <li><a href="https://youtu.be/6YLMWU-5H9o"</a>Dan Taylor - Get Productive with Python in Visual Studio Code</li>
 <li><a href="https://github.com/qubitron/flask-webapp-quickstart"</a>Flask quickstart for running in azure web apps</li>
