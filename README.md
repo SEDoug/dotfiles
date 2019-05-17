@@ -8,7 +8,7 @@ Seeking a broader field and desire to do work in full stack & mobile development
 ## What I'm learning, challenging myself, always push forward
 <li>Forgot how fun Linux is!</li>
 <li>Implementing bash scripts to automate and install multiple applications.</li>
-<li>Docker/Kubernetes for Cloud Native Technologies</li>
+<li>Docker/Kubernetes for Cloud Native Technologies<a href="https://docs.docker.com/get-started/"</a></li>
 <li>Legacy Transition Technologies</li>
 <li>Micro Services and DevOps</li>
 <li>Uni Kernals - wtf is this?</li>
