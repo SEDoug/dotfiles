@@ -33,7 +33,7 @@ Docker is a full development platform for creating containerized apps, and Docke
 
 <li><a href="https://www.youtube.com/watch?v=I1cG1FRjFOQ"</a>From Zero to Azure w/ Python, Docker containers & Visual Studio Code</li>
 <li><a href="https://youtu.be/DPBspKl2epk"</a>From Zero to Azure with Python and Visual Studio Code</li>
-<li><a href="https://docs.docker.com/docker-for-windows/?utm_source=docker4win_2.0.0.3&utm_medium=docs&utm_campaign=referral"</a>Docker for Windows</li><br>
+<li><a href="https://docs.docker.com/docker-for-windows/?utm_source=docker4win_2.0.0.3&utm_medium=docs&utm_campaign=referral"</a>Docker for Windows</li>
   
 ## Azure, Visual Studio Code, Python, SQL
 <li><a href="https://microsoft.github.io/AzureTipsAndTricks/"</a>Azure Tips & Tricks - webpage</li>
