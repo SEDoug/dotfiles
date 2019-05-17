@@ -8,6 +8,14 @@ Seeking a broader field and desire to do work in full stack & mobile development
 ## What I'm learning
 <li>Forgot how fun Linux is!</li>
 <li>Implementing bash scripts to automate and install multiple applications.</li>
+<li>Docker for Cloud Native Technologies</li>
+<li>Legacy Transition Technologies</li>
+<li>Full Stack Engineering</li>
+
+## What I'm working on
+<li>Put together past experiences to Compute, Storage, Network</li>
+<li>Network - provisioning switches & routers, Extreme Networks - Stacks</li>
+<li>Storage - EMC Clariion, CISCO Fabric Manager, VCenter, VMware ESXi, VSphere</li>
 
 ## How to connect to MS VSTS using Python
 <li><a href="https://github.com/rcoenmans/vsts-client"</a>Microsoft Azure DevOps (VSTS) and TFS written in Python</li>
