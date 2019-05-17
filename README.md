@@ -26,6 +26,11 @@ Then make a call to a specific project "Enterprise" if the API lets you get to G
 <li><a href="https://docs.microsoft.com/en-us/rest/api/azure/devops/audit/?view=azure-devops-rest-5.1"</a>API's</li>
 <li><a href="https://docs.microsoft.com/en-us/azure/devops/organizations/security/export-users-audit-log?view=azure-devops"</a>Call</li>
 
+## Docker for Windows | Visual Studio Code extension
+<li><a href="https://docs.docker.com/docker-for-windows/?utm_source=docker4win_2.0.0.3&utm_medium=docs&utm_campaign=referral"</a>Docker for Windows<.li>
+  
+Docker is a full development platform for creating containerized apps, and Docker Desktop for Windows is the best way to get started with Docker on Windows.
+  
 ## Azure, Visual Studio Code, Python, SQL
 <li><a href="https://microsoft.github.io/AzureTipsAndTricks/"</a>Azure Tips & Tricks - webpage</li>
 <li><a href="https://www.youtube.com/playlist?list=PLLasX02E8BPCNCK8Thcxu-Y-XcBUbhFWC"</a>Azure Tips & Tricks - videos</li>
