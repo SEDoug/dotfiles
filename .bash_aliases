@@ -20,12 +20,14 @@ function apt-updater {
         }
 #       reboot
 
+# Always enable colored `grep` output
+# Note: `GREP_OPTIONS="--color=auto"` is deprecated, hence the alias usage.
+alias grep='grep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias egrep='egrep --color=auto'
+
 # Shortcuts
 alias ls='ls --color=always -rthla'
-alias ..="cd .."
-alias ...="cd ../.."
-alias ....="cd ../../.."
-alias .....="cd ../../../.."
 alias reload="source ${HOME}/.bashrc"
 alias ch='history | grep git'
 alias dush=' du -sh "$@"* | sort -h'
