@@ -8,7 +8,7 @@
 if [ "$1" == "" ]
 then
 echo "Your forgot an IP address!"
-echo "Symtax: ./ipsweep.sh 192.168.1"
+echo "Symtax: ./ipsweep.sh 192.168.1 - use only 3 octets"
 
 else
 for ip in `seq 1 254`; do
