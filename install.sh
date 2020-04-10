@@ -2,7 +2,13 @@
 
 # Install Editor Packages
 sudo apt install vim
+sudo apt install curl
 sudo apt install tree
+
+# Install Docker
+curl -fsSL https://get.docker.com -o get-docker.sh
+rm get-docker.sh
+docker --version
 
 # Install Visual Studio Code
 sudo apt update
