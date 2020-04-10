@@ -4,6 +4,9 @@
 sudo apt install vim
 sudo apt install curl
 sudo apt install tree
+sudo apt install tmux -y
+sudo apt install git -y
+
 
 # Install Docker
 curl -fsSL https://get.docker.com -o get-docker.sh
