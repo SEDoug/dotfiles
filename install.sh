@@ -6,6 +6,7 @@ sudo apt install curl
 sudo apt install tree
 sudo apt install tmux -y
 sudo apt install git -y
+sudo apt install tilix -y
 
 
 # Install Docker
