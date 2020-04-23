@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# Interesting note. Laptop wlan0 and wlan1 (not) coming up.
+# ifconfig wlan1 up - no such device
+# Try this: iwconfig wlan1 mode monitor && ifconfig wlan1 up
 
 # Install Editor Packages
 sudo apt install vim
