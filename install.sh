@@ -14,6 +14,7 @@ sudo apt install tilix -y
 
 # Install Docker
 curl -fsSL https://get.docker.com -o get-docker.sh
+chmod +x get.docker.sh
 rm get-docker.sh
 docker --version
 
@@ -29,13 +30,13 @@ sudo apt install code   # Run code to start up vsc
 
 # Install Python 3.7
 
-sudo apt update
-sudo apt install software-properties-common
+# sudo apt update
+# sudo apt install software-properties-common
 
-sudo add-apt-repository ppa:deadsnakes/ppa
+# sudo add-apt-repository ppa:deadsnakes/ppa
 
 #Press [ENTER] to continue or Ctrl-c to cancel adding it.
 
-sudo apt install python3.7
+# sudo apt install python3.7
 
-python3.7 --version
+python3 --version
